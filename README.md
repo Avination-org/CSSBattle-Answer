@@ -9,7 +9,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #3 - Push Button](./Push-Button.md)
 
 + [Target #4 - Ups n Downs](./Ups-n-Downs.md)
-<!-- 
+
 + [Target #5 - Acid Rain](./Acid-Rain.md)
 
 + [Target #6 - Missing Slice](./Missing-Slice.md)
@@ -41,7 +41,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #19 - Cube](./Cube.md)
 
 + [Target #20 - Ticket](./Ticket.md)
-
+<!-- 
 + [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
 
 + [Target #22 - Cloud](./Cloud.md)
