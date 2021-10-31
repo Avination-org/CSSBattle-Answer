@@ -121,3 +121,5 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #59 - Earth](./Earth.md)
 
 + [Target #60 - Evil Triangles](./Evil-Triangles.md)
+
++ [Target #61 - Evil Triangles](./Evil-Triangles.md)
