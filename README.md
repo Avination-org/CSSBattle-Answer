@@ -41,7 +41,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #19 - Cube](./Cube.md)
 
 + [Target #20 - Ticket](./Ticket.md)
-<!-- 
+
 + [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
 
 + [Target #22 - Cloud](./Cloud.md)
@@ -61,7 +61,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #29 - Suffocate](./Suffocate.md)
 
 + [Target #30 - Horizon](./Horizon.md)
-
+ 
 + [Target #31 - Equals](./Equals.md)
 
 + [Target #32 - Band-aid](./Band-aid.md)
@@ -110,84 +110,14 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 
 + [Target #54 - Black Lives Matter](./Black-Lives-Matter.md)
 
-+ [Target #55 - Pastel Logo](./Pastel-Logo.md)
++ [Target #55 - Windmill](./Windmill.md)
 
-+ [Target #56 - Pastel Logo](./Pastel-Logo.md)
++ [Target #56 - Skull](./Skull.md)
 
-+ [Target #57 - Pastel Logo](./Pastel-Logo.md)
++ [Target #57 - Pillars](./Pillars.md)
 
-+ [Target #58 - Pastel Logo](./Pastel-Logo.md)
++ [Target #58 - Rose](./Rose.md)
 
-+ [Target #59 - Pastel Logo](./Pastel-Logo.md)
++ [Target #59 - Earth](./Earth.md)
 
-+ [Target #60 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #61 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #62 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #63 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #64 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #65 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #66 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #67 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #68 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #69 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #70 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #71 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #72 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #73 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #74 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #75 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #76 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #77 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #78 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #79 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #80 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #81 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #82 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #83 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #84 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #85 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #86 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #87 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #88 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #89 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #90 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #91 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #92 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #93 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #94 - Pastel Logo](./Pastel-Logo.md)
-
-+ [Target #95 - Pastel Logo](./Pastel-Logo.md) -->
++ [Target #60 - Evil Triangles](./Evil-Triangles.md)
