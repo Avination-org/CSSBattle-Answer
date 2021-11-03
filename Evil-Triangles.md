@@ -1,4 +1,4 @@
-# [Target #60 - Windmill](https://cssbattle.dev/play/60)
+# [Target #60 - Evil Triangles](https://cssbattle.dev/play/60)
 
 ![](https://cssbattle.dev/targets/60.png)
 

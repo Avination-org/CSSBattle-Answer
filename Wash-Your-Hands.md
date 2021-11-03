@@ -1,4 +1,4 @@
-# [Target #48 - Windmill](https://cssbattle.dev/play/48)
+# [Target #48 - Wash You Hands](https://cssbattle.dev/play/48)
 
 ![](https://cssbattle.dev/targets/48.png)
 

@@ -1,4 +1,4 @@
-# [Target #14 - Windmill](https://cssbattle.dev/play/14)
+# [Target #14 - Web Maker Logo](https://cssbattle.dev/play/14)
 
 ![](https://cssbattle.dev/targets/14.png)
 

@@ -1,4 +1,4 @@
-# [Target #30 - Windmill](https://cssbattle.dev/play/30)
+# [Target #30 - Horizon](https://cssbattle.dev/play/30)
 
 ![](https://cssbattle.dev/targets/30.png)
 

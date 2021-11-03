@@ -1,4 +1,4 @@
-# [Target #59 - Windmill](https://cssbattle.dev/play/59)
+# [Target #59 - Earth](https://cssbattle.dev/play/59)
 
 ![](https://cssbattle.dev/targets/59.png)
 

@@ -1,4 +1,4 @@
-# [Target #3 - Windmill](https://cssbattle.dev/play/3)
+# [Target #3 - Push Button](https://cssbattle.dev/play/3)
 
 ![](https://cssbattle.dev/targets/3.png)
 

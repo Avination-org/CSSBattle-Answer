@@ -1,4 +1,4 @@
-# [Target #47 - Windmill](https://cssbattle.dev/play/47)
+# [Target #47 - Corona Virus](https://cssbattle.dev/play/47)
 
 ![](https://cssbattle.dev/targets/47.png)
 
