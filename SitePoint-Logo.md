@@ -1,4 +1,4 @@
-# [Target #21 - Windmill](https://cssbattle.dev/play/21)
+# [Target #21 - SitePoint Logo](https://cssbattle.dev/play/21)
 
 ![](https://cssbattle.dev/targets/21.png)
 

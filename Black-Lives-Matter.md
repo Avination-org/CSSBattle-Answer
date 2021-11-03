@@ -1,4 +1,4 @@
-# [Target #54 - Windmill](https://cssbattle.dev/play/54)
+# [Target #54 - Black Lives Matter](https://cssbattle.dev/play/54)
 
 ![](https://cssbattle.dev/targets/54.png)
 

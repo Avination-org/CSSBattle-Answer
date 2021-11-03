@@ -1,4 +1,4 @@
-# [Target #43 - Windmill](https://cssbattle.dev/play/43)
+# [Target #43 - Wrench](https://cssbattle.dev/play/43)
 
 ![](https://cssbattle.dev/targets/43.png)
 

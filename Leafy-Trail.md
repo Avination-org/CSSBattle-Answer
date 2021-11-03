@@ -1,4 +1,4 @@
-# [Target #7 - Windmill](https://cssbattle.dev/play/7)
+# [Target #7 - Leafy Trail](https://cssbattle.dev/play/7)
 
 ![](https://cssbattle.dev/targets/7.png)
 

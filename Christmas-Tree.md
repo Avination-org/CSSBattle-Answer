@@ -1,4 +1,4 @@
-# [Target #34 - Windmill](https://cssbattle.dev/play/34)
+# [Target #34 - Christmas Tree](https://cssbattle.dev/play/34)
 
 ![](https://cssbattle.dev/targets/34.png)
 

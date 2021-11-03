@@ -42,15 +42,15 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 
 + [Target #20 - Ticket](./Ticket.md)
 
-+ [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
++ [Target #21 - SitePoint Logo](./SitePoint-Logo.md)
 
 + [Target #22 - Cloud](./Cloud.md)
 
 + [Target #23 - Boxception](./Boxception.md)
 
-+ [Target #24 - Switches.md](./Switches.md)
++ [Target #24 - Switches](./Switches.md)
 
-+ [Target #25 - Blossom.md](./Blossom.md)
++ [Target #25 - Blossom](./Blossom.md)
 
 + [Target #26 - Smiley](./Smiley.md)
 
@@ -64,7 +64,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
  
 + [Target #31 - Equals](./Equals.md)
 
-+ [Target #32 - Band-aid](./Band-aid.md)
++ [Target #32 - Band Aid](./Band-aid.md)
 
 + [Target #33 - Birdie](./Birdie.md)
 
@@ -96,7 +96,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 
 + [Target #47 - Corona Virus](./Corona-Virus.md)
 
-+ [Target #48 - Wash You Hands.md](./Wash-Your-Hands.md)
++ [Target #48 - Wash You Hands](./Wash-Your-Hands.md)
 
 + [Target #49 - Stay at Home](./Stay-at-Home.md)
 
@@ -122,4 +122,62 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 
 + [Target #60 - Evil Triangles](./Evil-Triangles.md)
 
-+ [Target #61 - Evil Triangles](./Evil-Triangles.md)
++ [Target #61 - ImprovMX](./ImprovMX.md)
+
++ [Target #62 - Sunset](./#62Sunset.md)
+
++ [Target #63 - Command Key](./Command-Key.md)
+
++ [Target #64 - Door Knob](./Door-Knob.md)
+
++ [Target #65 - Max Volume](./Max-Volume.md)
+
++ [Target #66 - Batmicky](./Batmicky.md)
+
++ [Target #67 - Video Reel](./Video-Reel.md)
+
++ [Target #68 - Bell](./Bell.md)
+
++ [Target #69 - PushOwl](./PushOwl.md)
+
++ [Target #70 - Froggy](./Froggy.md)
+
++ [Target #71 - Elephant](./Elephant.md)
+
++ [Target #72 - Sheep](./Sheep.md)
+
++ [Target #73 - Happy Tiger](./Happy-Tiger.md)
+
++ [Target #74 - Danger Noodle](./Danger-Noodle.md)
+
++ [Target #75 - Hippo](./Hippo.md)
+
++ [Target #76 - Beeee](./Beeee.md)
+
++ [Target #77 - Notes](./Notes.md)
+
++ [Target #78 - Ukulele](./Ukulele.md)
+
++ [Target #79 - Tambourine](./Tambourine.md)
+
++ [Target #80 - Piano](./Piano.md)
+
++ [Target #81 - Odoo](./Odoo.md)
+
++ [Target #82 - Diamond Cut](./Diamond-Cut.md)
+
++ [Target #83 - Supernova](./Supernova.md)
+
++ [Target #84 - Junction](./Junction.md)
+
++ [Target #85 - Pythagoras](./Pythagoras.md)
+
++ [Target #86 - Stairway](./Stairway.md)
+
++ [Target #87 - Building Blocks](./Building-Blocks.md)
+
++ [Target #88 - Tight Corner](./Tight-Corner.md)
+
++ [Target #89 - Summit ](./Summit.md)
+
++ [Target #90 - Eclipse](./Eclipse.md)

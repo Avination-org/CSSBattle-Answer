@@ -1,4 +1,4 @@
-# [Target #26 - Windmill](https://cssbattle.dev/play/26)
+# [Target #26 - Smiley](https://cssbattle.dev/play/26)
 
 ![](https://cssbattle.dev/targets/26.png)
 
