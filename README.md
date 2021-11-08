@@ -181,3 +181,7 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #89 - Summit ](./Summit.md)
 
 + [Target #90 - Eclipse](./Eclipse.md)
+
++ [Target #91 - Reflection](./Reflection.md)
+
++ [Target #92 - Squeeze](./Squeeze.md)
