@@ -185,3 +185,11 @@ Solution of [CSSBATTLE](https://cssbattle.dev/)
 + [Target #91 - Reflection](./Reflection.md)
 
 + [Target #92 - Squeeze](./Squeeze.md)
+
++ [Target #93 - Great Wall](./Great-Wall.md)
+
++ [Target #94 - Ripples](./Ripples.md)
+
++ [Target #95 - Pokeball](./Pokeball.md)
+
++ [Target #96 - Mandala](./Mandala.md)
